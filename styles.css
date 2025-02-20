@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+}
+
+h1 {
+  color: #333;
+}
+
+.block {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.btn-custom {
+  background-color: rgb(68, 83, 101);
+  color: white;
+}
+.btn-custom:hover {
+  background-color: #768099;
+  color: white;
+}
+
+/*# sourceMappingURL=styles.css.map */
